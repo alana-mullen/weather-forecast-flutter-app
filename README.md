@@ -6,6 +6,7 @@ Flutter app displaying the 5 day weather forecast for London using the [OpenWeat
 * [Flutter](https://flutter.io)
 * Dart
 * Dart extensions
+* [BLoC Pattern](https://github.com/felangel/bloc) - state management
 * [Dio](https://pub.dev/packages/dio) - Http client for Dart
 * [Retrofit](https://pub.dev/packages/retrofit) - type conversion dio client generator
 * [Cached Network Image](https://pub.dev/packages/cached_network_image) - displays and caches images
